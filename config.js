@@ -35,24 +35,24 @@ global.sdc = 'https://discord.gg/fu2BQ5RZ' //discord
 global.snh = 'https://nhentai.net/' //nhentai
 
 /*============== PAYMENT ==============*/
-global.pdana = '083181666350' //pulsa1
-global.ppulsa = '083817914073' //pulsa2
-global.povo = '083181666350' //ovo
-global.gopay = '083181666350' //gopay
-global.dana = '083181666350' //dana
+global.pdana = '0887437659893' //pulsa1
+global.ppulsa = '0887437659893' //pulsa2
+global.povo = '' //ovo
+global.gopay = '' //gopay
+global.dana = '0887437659893' //dana
 global.sid = 'https://s.id/ReyzShop' //s.id
-global.psaweria = 'https://saweria.com/ReyzXd' //saweria
+global.psaweria = 'https://saweria.com/CallMeLian' //saweria
 
 /*============== NOMOR ==============*/
-global.nomorwa = '6283181666350' //whatsapp
-global.nomorbot = '6283149513279' //nomor Bot
-global.nomorown = '6283181666350' //nomor Owner
-global.namebot = 'ᴇʟᴀɪɴᴀ ᴀɪ' //nama Bot
-global.nameown = 'ʀᴇʏᴢ ʜᴀʏᴀɴᴀsɪ' //nama Owner
+global.nomorwa = '62887437659893' //whatsapp
+global.nomorbot = '6285383264867' //nomor Bot
+global.nomorown = '62887437659893' //nomor Owner
+global.namebot = 'Tanjiro -MD' //nama Bot
+global.nameown = 'aditya' //nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283181666350', 'ʀᴇʏᴢ ʜᴀʏᴀɴᴀsɪ', true] //creator/owner
+  ['62887437659893', 'aditya', true] //creator/owner
 ] //put your number here
 global.mods = [] //moderator
 global.prems = [] //prem bukan disini
@@ -94,7 +94,7 @@ global.version = '3.0.0'
 global.wm = 'ʀᴇʏᴢ ʜᴀʏᴀɴᴀsɪ' //wm1
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴇʟᴀɪɴᴀ - ᴀɪ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷' //wm2
 global.wm3 = '• ᴇʟᴀɪɴᴀ ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ' //wm3
-global.namedoc = 'ʀᴇʏᴢ ʜᴀʏᴀɴᴀsɪ' //nama document
+global.namedoc = 'Elaina' //nama document
 global.botdate = `• ᴅᴀʏ's: ${week} ${date}`
 global.bottime = `ᴛɪᴍᴇ: ${wktuwib}`
 global.titlebot = '🎋 ┊ sɪᴍᴘʟᴇ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ'
@@ -324,7 +324,7 @@ global.wait = '🚩 ʟᴏᴀᴅɪɴɢ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ... '
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 831-8166-6350'
+global.phn = '+62 887-4376-59893'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
